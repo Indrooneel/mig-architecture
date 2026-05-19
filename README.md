@@ -1,3 +1,14 @@
+<p align="center">
+  <strong>MIG — Memory Intelligence Graph</strong><br>
+  <em>The Execution Control Layer for Critical Infrastructure</em><br><br>
+  Every command validated before it touches a controller. Fail-closed by default.<br><br>
+  <a href="https://houseofgalatine.com">Website</a> · 
+  <a href="https://houseofgalatine.com/playground">Try the Playground</a> · 
+  <a href="https://houseofgalatine.com#contact">Contact</a>
+</p>
+
+---
+
 ## What is MIG?
 
 MIG is a deterministic command validation layer that sits at the IT-OT boundary.
