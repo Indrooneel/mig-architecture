@@ -175,6 +175,6 @@ MIG operates as an agent within multi-agent orchestration frameworks. Other agen
 
 ---
 
-*MIG is proprietary software built by House of Galatine. Patent pending: USPTO Provisional #63/821,489.*
+*MIG is proprietary software built by House of Galatine. Patent pending Nova : USPTO Provisional #63/821,489.*
 
 *This document describes the system architecture. The engine source code is not publicly available.*
