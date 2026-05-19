@@ -1,0 +1,17 @@
+Copyright (c) 2026 House of Galatine. All rights reserved.
+
+This repository contains documentation, architecture specifications,
+and example configurations for the MIG system.
+
+Permission is granted to view and reference this documentation
+for evaluation purposes only.
+
+You may NOT:
+- Copy, reproduce, or redistribute this documentation
+- Use the architecture described herein to build competing products
+- Claim any part of this work as your own
+
+The MIG engine source code is not included in this repository
+and remains proprietary to House of Galatine.
+
+For licensing inquiries: neel@houseofgalatine.com
